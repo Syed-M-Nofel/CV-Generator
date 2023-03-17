@@ -1,0 +1,33 @@
+<resources>
+
+    <string name="app_name">MyApplication</string>
+    //Degrees
+    <string-array name="degree">
+        <item>Computer Science</item>
+        <item>Cyber Security</item>
+        <item>Machine Learning</item>
+        <item>Data Science</item>
+    </string-array>
+    //--------------------------------------------------------------------------------------------------
+
+    <string-array name="skills">
+        <item>Android developer</item>
+        <item>Web Developer</item>
+        <item>ML Specialist</item>
+        <item>Forensics</item>
+        <item>Threat Intelligence</item>
+        <item>Data Scientist</item>
+    </string-array>
+
+    //--------------------------------------------------------------------------------------------------
+
+    <string-array name="experience">
+        <item></item>
+        <item>10 years or above</item>
+        <item>5+ years</item>
+        <item>5 years</item>
+        <item>2-3 years</item>
+        <item>0 years</item>
+    </string-array>
+
+</resources>
